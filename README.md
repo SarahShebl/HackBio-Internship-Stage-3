@@ -16,23 +16,24 @@ https://docs.google.com/document/d/1agEoZ12eGO7c851Y0uo-aqYeJ_6xCJw4m7b51dqTlvY/
 
 The Analysis of Cholera Outbreaks Data since 1949 markdown report.
 
-we created Notion Report for better visualiztion. 
-
-(https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74)
+we created Notion Report for better visualiztion (https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74)
 
 We created interactive shiny app Cholera Data Dive Link (https://choleradatadive.shinyapps.io/choleradatadive/)
 
-📝 Data Source :
+**📝 Data Source**
 
 (https://apps.who.int/gho/data/node.main.174?lang=en)
 
+**usage (100% using R script)**
 
-usage (100% using R script)
 1-Download the data
+
 2-Data analysis and Manipulation
+
 3-Generate Meaningful plots identify the Trends and significant product
 
-Cholera Outbreak Summary Report for India
+**Cholera Outbreak Summary Report for India**
+
 This summary provides an overview of the cholera outbreak in India from 1949 to 2016, focusing on key metrics, trends, and implications.
 
 **Key Metrics and Trends**
