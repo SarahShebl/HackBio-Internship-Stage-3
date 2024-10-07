@@ -9,6 +9,7 @@ Author: " Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled 
 **Phase 1**
 
 Here is Googel docs
+https://docs.google.com/document/d/1agEoZ12eGO7c851Y0uo-aqYeJ_6xCJw4m7b51dqTlvY/edit#heading=h.6o1oyespi2s2
 
 **Phase 2**
 
@@ -18,14 +19,10 @@ we created Notion Report for better visualiztion.
 
 We created interactive shiny app Cholera Data Dive Link (https://choleradatadive.shinyapps.io/choleradatadive/)
 
-📝 References :
-Reported cases data : WHO
+📝 Data Source :
 
-Death cases data : WHO
+(https://apps.who.int/gho/data/node.main.174?lang=en)
 
-Fatality rates data : WHO
-
-source : GRID-Arendal communications center in Norway
 
 usage (100% using R script)
 1-Download the data
@@ -35,7 +32,8 @@ usage (100% using R script)
 Cholera Outbreak Summary Report for India
 This summary provides an overview of the cholera outbreak in India from 1949 to 2016, focusing on key metrics, trends, and implications.
 
-Key Metrics and Trends
+**Key Metrics and Trends**
+
 The data focuses on the cholera outbreak that started from south Asia countries as India, and Bangladesh in 1949. In the following ten years, it started to spread into the neighbouring countries to become from regional to global epidemic that influenced most of the countries. During the outbreak, India recorded 1363250 cholera cases and 509438 deaths. The highest number of cases and deaths occurred in 1953 with 213225 cases ,124227 deaths and 58.26 fatelity rate. The average case fatality rate (ICFR) for the outbreak was 16.1 %. The highest ICFR was observed in 1957 at 90% while the lowest ICFR was recorded in the late 90s. The cases and the deaths started to drop down in the start of the 80s.
 
 image.png
