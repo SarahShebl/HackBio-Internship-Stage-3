@@ -1,13 +1,17 @@
 # HackBio-Internship-Stage-3
 
-Analysis of Cholera Outbreaks Data since 1949
+# Analysis of Cholera Outbreaks Data since 1949
+
 Author: " Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled (@yomna98) "
 
-💡 Important links :
-Phase 1
+# 💡 Important links :
+
+**Phase 1**
+
 Here is Googel docs
 
-Phase 2
+**Phase 2**
+
 The Analysis of Cholera Outbreaks Data since 1949 markdown report.
 
 we created Notion Report for better visualiztion.
