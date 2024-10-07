@@ -24,7 +24,7 @@ We created interactive shiny app Cholera Data Dive Link (https://choleradatadive
 
 (https://apps.who.int/gho/data/node.main.174?lang=en)
 
-# usage (100% using R script)
+# Usage (100% using R script)
 
 1-Download the data
 
@@ -40,11 +40,4 @@ This summary provides an overview of the cholera outbreak in India from 1949 to 
 
 The data focuses on the cholera outbreak that started from south Asia countries as India, and Bangladesh in 1949. In the following ten years, it started to spread into the neighbouring countries to become from regional to global epidemic that influenced most of the countries. During the outbreak, India recorded 1363250 cholera cases and 509438 deaths. The highest number of cases and deaths occurred in 1953 with 213225 cases ,124227 deaths and 58.26 fatelity rate. The average case fatality rate (ICFR) for the outbreak was 16.1 %. The highest ICFR was observed in 1957 at 90% while the lowest ICFR was recorded in the late 90s. The cases and the deaths started to drop down in the start of the 80s.
 
-image.png
-
-Shiny App: Cholera Data Dive (https://choleradatadive.shinyapps.io/choleradatadive/)
-Cholera_Data_Dive
-
-This Shiny app provides an interactive platform for analyzing cholera data from 1949 to 2016, including cases, deaths, and fatality rates. The app allows users to easily generate customizable plots and extract data for further analysis. With its user-friendly interface, it simplifies the process of visualizing and understanding trends in cholera outbreaks over time.
-
-image
+![image](https://github.com/user-attachments/assets/fb678aeb-3c73-4775-9f52-41418d3a00fb)
