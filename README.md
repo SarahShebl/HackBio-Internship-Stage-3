@@ -14,11 +14,11 @@ https://docs.google.com/document/d/1agEoZ12eGO7c851Y0uo-aqYeJ_6xCJw4m7b51dqTlvY/
 
 **Phase 2**
 
-The Analysis of Cholera Outbreaks Data since 1949 markdown report.
+1- The Analysis of Cholera Outbreaks Data since 1949 markdown report.
 
-We created Notion Report for better visualiztion (https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74)
+2- We created Notion Report for better visualiztion (https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74)
 
-We created interactive shiny app Cholera Data Dive Link (https://choleradatadive.shinyapps.io/choleradatadive/)
+3- We created interactive shiny app Cholera Data Dive Link (https://choleradatadive.shinyapps.io/choleradatadive/)
 
 # 📝 Data Source
 
