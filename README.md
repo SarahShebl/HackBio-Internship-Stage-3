@@ -9,8 +9,11 @@ Here is Googel docs
 
 Phase 2
 The Analysis of Cholera Outbreaks Data since 1949 markdown report.
+
 we created Notion Report for better visualiztion.
+
 We created interactive shiny app Cholera Data Dive Link (https://choleradatadive.shinyapps.io/choleradatadive/)
+
 📝 References :
 Reported cases data : WHO
 
